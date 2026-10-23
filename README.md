@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Management System (React + Redux Toolkit + JSON Server)
 
 ## Run it
@@ -22,3 +23,6 @@ src/
   pages/                 Login, Signup, Dashboard, Profile
   index.css              Responsive styles
 ```
+=======
+# Project-Management-System
+>>>>>>> 74a4b11f904f698c25c0ff63a5d8bc41fa6cb721
