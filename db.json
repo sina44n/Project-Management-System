@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Demo User",
+      "email": "demo@test.com",
+      "password": "123456"
+    },
+    {
+      "name": "sinan",
+      "email": "muhammedsinankp2005@gmail.com",
+      "password": "12345678",
+      "id": 2
+    },
+    {
+      "name": "sinankp",
+      "email": "sinan@gmail.com",
+      "password": "12345678",
+      "id": 3
+    },
+    {
+      "name": "ff",
+      "email": "fffff@fff",
+      "password": "dddddddddd",
+      "id": 4
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Design the home page",
+      "description": "Create a simple, clean layout for the landing page.",
+      "status": "todo",
+      "priority": "high",
+      "dueDate": "2026-10-20",
+      "assignedTo": 1,
+      "createdBy": 1
+    },
+    {
+      "title": "dfdf",
+      "description": "dsd",
+      "status": "todo",
+      "priority": "medium",
+      "dueDate": "",
+      "assignedTo": 2,
+      "createdBy": 2,
+      "id": 2
+    }
+  ]
+}
